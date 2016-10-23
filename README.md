@@ -6,6 +6,8 @@ the Energenie Pi-mote control board.
 
 The python script has been only tested with Raspbian OS.
 
+![alt tag](https://energenie4u.co.uk/res/images/products/large/ENER002-2PI.jpg)
+
 Requirements
 ------------
 
@@ -17,5 +19,17 @@ Dependencies
 ------------
 
 This python scripts requires of the following Debian packages:
+- build-essential
+- python3-dev
+- python3-gpiozero
+- python3-pkg-resources 
 
+License
+-------
 
+MIT
+
+Author Information
+------------------
+
+* [Jose Gomez](https://github.com/pipoe2h) | [www](http://www.joseluisgomez.com) | [twitter](http://twitter.com/pipoe2h)
