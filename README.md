@@ -59,7 +59,7 @@ Turning on socket: 1
 
 ```
 
-- Configure or Power off socket 1
+- Power off socket 1
 ```
 # sudo python3 socketcontrol.py 1 off
 Turning off socket: 1
